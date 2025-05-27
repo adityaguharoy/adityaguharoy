@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 visit https://scoutmathematics.wordpress.com/
 
 <!--
 **adityaguharoy/adityaguharoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
